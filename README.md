@@ -1,4 +1,4 @@
-Personal Ethical Hacking Tool 🛡️
+# Personal Ethical Hacking Tool 🛡️
 
 A simple ethical hacking demo built in Python with a Gradio web interface.  
 This tool performs an **HTTP reachability check** against a target host and displays the results in a clean, terminal-style output panel.
@@ -9,7 +9,7 @@ This tool performs an **HTTP reachability check** against a target host and disp
 
 ---
 
-✨ Features
+## ✨ Features
 
 - 🔍 **HTTP Reachability Check**  
   Sends an HTTP GET request (`http://<target>`) and reports:
@@ -30,7 +30,7 @@ This tool performs an **HTTP reachability check** against a target host and disp
 
 ---
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 **Hugging Face Space (project page):**  
 https://huggingface.co/spaces/goodjobbruh/ethicalhacking-tool
@@ -42,7 +42,7 @@ Use the **interactive web interface** to test the tool without running anything 
 
 ---
 
-🖼 Interface Preview
+## 🖼 Interface Preview
 
 Below is what the tool looks like when running:
 
@@ -50,9 +50,9 @@ Below is what the tool looks like when running:
 
 ---
 
-📦 How to Run Locally
+## 📦 How to Run Locally
 
-1. Clone this repository
+### 1. Clone this repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
