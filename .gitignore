@@ -1,3 +1,5 @@
+# Ignore cache and environment files
+
 __pycache__/
 *.pyc
 *.pyo
